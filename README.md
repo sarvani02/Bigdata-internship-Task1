@@ -14,3 +14,10 @@ This repository contains *Task 1* of my Big Data internship project using *PySpa
 
 ## ✅ Status
 ✔ Task 1 Completed and Verified
+
+---
+
+### 📁 Dataset Used:
+*Dataset Name:* Housing Dataset  
+*Source:* [Kaggle – Real Estate Price Prediction](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)  
+Please download and place housing.csv in the same folder as the notebook before running.
